@@ -1,0 +1,14 @@
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\bin\Debug\net8.0\type_conversion.exe
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\bin\Debug\net8.0\type_conversion.deps.json
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\bin\Debug\net8.0\type_conversion.runtimeconfig.json
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\bin\Debug\net8.0\type_conversion.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\bin\Debug\net8.0\type_conversion.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\obj\Debug\net8.0\type_conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\obj\Debug\net8.0\type_conversion.AssemblyInfoInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\obj\Debug\net8.0\type_conversion.AssemblyInfo.cs
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\obj\Debug\net8.0\type_conversion.csproj.CoreCompileInputs.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\obj\Debug\net8.0\type_conversion.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\obj\Debug\net8.0\refint\type_conversion.dll
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\obj\Debug\net8.0\type_conversion.pdb
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\obj\Debug\net8.0\type_conversion.genruntimeconfig.cache
+C:\Users\mhmtb\OneDrive\Masaüstü\projeler c#\type_conversion\obj\Debug\net8.0\ref\type_conversion.dll
